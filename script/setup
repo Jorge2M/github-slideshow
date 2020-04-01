@@ -1,5 +1,5 @@
 #!/bin/sh
-
+#this is a test of a change/commit
 set -e
 
 cd "$(dirname "$0")/.."
